@@ -13,6 +13,11 @@ body {
     color: #777;
 }
 
+.caption {
+    color: #777;
+    font-style: italic;
+}
+
 .text-primary {
     color: #fed136;
 }
