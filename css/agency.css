@@ -47,6 +47,10 @@ a.text-muted {
     color: #777;
 }
 
+.label a {
+    color: #fff;
+}
+
 a:hover,
 a:focus,
 a:active,
@@ -63,6 +67,10 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+}
+
+.img-full {
+    max-width: 100%;
 }
 
 .img-centered {
