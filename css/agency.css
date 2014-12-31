@@ -260,7 +260,7 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
-.navbar-default {
+/*.navbar-default {
     border-color: transparent;
     background-color: #222;
 }
@@ -319,9 +319,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
     background-color: #517F87;
-}
+}*/
 
-@media(min-width:768px) {
+/*@media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
@@ -350,7 +350,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
-}
+}*/
 
 header {
     text-align: center;
@@ -359,6 +359,7 @@ header {
     background-image: url(../img/header-bg.png);
     background-position: center center;
     background-repeat: none;
+    background-position: 0px 50px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
