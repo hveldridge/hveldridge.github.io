@@ -377,12 +377,12 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
-    color: #4D704D;
+    color: #fff;
     text-shadow:
-    -1px -1px #E0EBFF,
-    1px -1px #E0EBFF,
-    -1px 1px #E0EBFF,
-    1px 1px #E0EBFF;
+    -1px -1px #000,
+    1px -1px #000,
+    -1px 1px #000,
+    1px 1px #000;
 }
 
 header .intro-text .intro-heading {
@@ -392,12 +392,12 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
-    color: #4D704D;
+    color: #fff;
     text-shadow:
-    -2px -2px #fff,
-    2px -2px #fff,
-    -2px 2px #fff,
-    2px 2px #fff;
+    -2px -2px #000,
+    2px -2px #000,
+    -2px 2px #000,
+    2px 2px #000;
 }
 
 @media(min-width:768px) {
