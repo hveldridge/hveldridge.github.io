@@ -22,6 +22,16 @@ body {
     font-style: italic;
 }
 
+.small-caption {
+    color: #777;
+    font-size: 8pt;
+}
+
+.contact-info {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .text-primary {
     color: #fed136;
 }
