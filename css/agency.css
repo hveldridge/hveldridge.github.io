@@ -578,6 +578,14 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
+footer ul.quicklinks:hover {
+    cursor: pointer;
+}
+
+footer ul.quicklinks a:hover {
+    color: #517F87;
+}
+
 ul.social-buttons {
     margin-bottom: 0;
 }
